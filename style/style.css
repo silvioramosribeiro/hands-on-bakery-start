@@ -1,0 +1,80 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Lucida Grande';
+}
+
+nav{
+    width: 100%;
+    background-color: #818b83;
+    height: 50px;
+    
+}
+.nav-container{
+     /* border: 1px solid red;  */ */
+    height: 50px;
+    width: 33%;
+    float: left;
+    box-sizing: border-box;
+    text-align: center;
+    
+    
+  
+    
+}
+.nav-container a{
+ /* border: 1px  solid red;  */
+padding: 10px;
+text-decoration: none;
+font-size:20px;
+display: inline-block;
+color:aliceblue;
+margin: 0 12px
+
+
+
+}
+
+
+.nav-logo{
+    /* border: 1px solid red; */
+    height: 44px;
+    margin: 3px;
+  
+   
+    
+   
+}
+#btn-pedido{
+    background-color: #c38f72;
+    display:inline-block;
+    width:150px;
+    padding: 10px;
+    border-radius:20px;
+    margin: 3px
+    
+
+}
+
+#sobre-nos{
+    text-align: center;
+}
+h1{
+    text-transform:uppercase;
+    font-size:45px;
+    font-weight: 400;
+    margin:40px; 
+    color:#1e434d;
+
+
+}
+h2{
+    text-transform:uppercase;
+    font-size:35px;
+    font-weight: 400;
+    margin:40px;
+    color:#1e434d;
+}
+#img-sobre-nos{
+    border-radius: 20px;
+}
